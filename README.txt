@@ -1,7 +1,7 @@
 The program classifies animals by species and attributes and organizes the data by reading the input file provided. 
 It asks the user for the name of an animal and prints out the animal’s information.
 Check input file for supported animals.
-EKAnimalProject.java is main file which is to be run.
+EKAnimalProject.java is the main file which is to be run.
 
 The full list of commands is listed if the user types “?”
 • all – writes all animals to output file
